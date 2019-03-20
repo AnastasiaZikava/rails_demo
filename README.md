@@ -3,6 +3,7 @@
 This is an example of a module that allows to filtering collections from the client side
 
 Supported operators: is, contains, between, in, not_in, begin, end
+
 Supported logic: AND, OR
 
 #### Example
